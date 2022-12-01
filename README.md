@@ -18,7 +18,7 @@ Modelo gratuito de currículo/CV Bootstrap 5 para Desenvolvedores Web
 <br>
 
 <p align="center">
-  <img alt="curriculo" src=".github/preview.png" width="100%">
+  <img alt="curriculo" src="./github/preview.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
